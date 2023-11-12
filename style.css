@@ -1338,6 +1338,6 @@ Burger
         right: 200px;
     }
     .foot .row .col {
-        flex-basis: 26%;
+        flex-basis: 25%;
     }
 }
